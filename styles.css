@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.body_screen {
+  background-color: rgb(214, 214, 214);
+}
+
+.top_text_box {
+  width: 100%;
+  text-align: center;
+}
+
+.text_center {
+}
+
+.navigation_bar {
+  background-color: black;
+  width: 90vw;
+  height: 80px;
+  margin: 0px auto;
+  border-radius: 30px;
+}
+
+.fixed_nav {
+  width: 100vw;
+  position: fixed;
+}
+
+.container_main {
+  max-width: 1140px;
+  margin: 0px auto;
+  background-color: red;
+}
